@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663163821 source:c:\users\ant\documents\onenote notebooks\uvafreinds\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cmath>
+	<cstdlib>
+
